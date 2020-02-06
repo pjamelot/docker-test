@@ -1,4 +1,6 @@
 #!/bin/bash
+# version2
+
 
 if [ -z "$HEARTBEATSTEP" ]; then
     echo "La variable d'environnement HEARTBEATSTEP doit avoir une valeur!";
