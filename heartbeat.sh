@@ -1,5 +1,5 @@
 #!/bin/bash
-# version2
+# version3
 
 
 if [ -z "$HEARTBEATSTEP" ]; then
